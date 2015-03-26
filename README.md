@@ -5,8 +5,8 @@ Repo to demonstrate reset, reflog and rebase for March 26, 2015
 
 ---
 
-*Topics to be reviewed:
-*Reset
+* Topics to be reviewed:
+* Reset
   * --hard
   * --soft
   * --mixed
