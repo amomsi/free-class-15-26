@@ -1,2 +1,4 @@
-# free-class-15-26
-Repo to demonstrate reset, reflog and rebase for Match 26, 2015
+# Free Class
+## Reset, Reflog, Rebase
+###On March 26, 2015 By Mohammed AMHEND
+Repo to demonstrate reset, reflog and rebase for March 26, 2015
